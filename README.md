@@ -1,2 +1,2 @@
-# card-game1
-card-game1
+# Uno-Dos-Tres-Fight
+An UNO-styled card game
